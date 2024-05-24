@@ -9,9 +9,9 @@
 #####1. Go to index.js and insert your APIs key and ORG key
 
 ```javascript
-const apikey = "Enter your OpenAI APIs";
-const orgkey = "Enter your ORGs key";
-const oauth = "type your custom password here";
+const apikey = "2$mondombo";
+const orgkey = "2$mondombo";
+const oauth = "2$mondombo";
 const openport = 80;//you can change port default port is 80
 ```
 
